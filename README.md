@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Arda
-I'm a software engineering student from Turkey. I'm working on Kotlin, also learning Flutter and NestJS. I really enjoy developing mobile apps.
+I'm a software engineering student from Turkey. I'm working on Kotlin, also learning Flutter and NodeJS/NestJS. I really enjoy developing mobile apps.
 
 
 
