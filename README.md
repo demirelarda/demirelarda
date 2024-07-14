@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Arda</h1>
-<h3 align="center">I'm a software engineering student from Turkey. I'm working on Kotlin, also learning Flutter and NodeJS/NestJS. I really enjoy developing mobile apps.</h3>
+<h3 align="center">I'm a software engineering student from Turkey. I'm working on Kotlin, also learning Flutter and NodeJS. I really enjoy developing mobile apps.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
